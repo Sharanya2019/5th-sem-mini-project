@@ -1,0 +1,41 @@
+.h1
+{
+	width: 100vw;
+	height: 10vh;
+	background-color: black;
+	opacity: 0.75;
+}
+#h11
+{
+	font-size: 50;
+	margin-left: 36vw;
+	color: gold;
+	position:center;
+}
+
+
+
+.b1
+{
+	margin-left: 35vw;
+	margin-top: 20vh;
+	width: 33vw;
+	height: 60vh;
+	background-color: black;
+	opacity: 0.65;
+	border-radius: 25px;
+}
+
+#b11
+{
+	font-size: 35px;
+	margin-left: 35%;
+	color: white
+}
+
+.b12
+{
+	font-size: 25px;
+	margin-left: 25px;
+	margin-top: 40px;
+}
