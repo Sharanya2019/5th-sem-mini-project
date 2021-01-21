@@ -5,6 +5,4 @@ Html, css, php, javascript, mysql languages are used to implement this project.
 Objectives:
 1.To be able to build an interface that can connect public to local service providers. 
 2.To produce a web based system with database connectivity that allow a customer to register with his /her details and book the required service.
-3.Also allows users to cancel their order
-4.To produce efficient and secured management system.
-
+3.Also allows users to cancel their order.
